@@ -138,7 +138,6 @@ $ sudo apt install openssh-server
 
 그 후 아래 명령어로 ssh서버를 실행합니다.
 
-
 ```xml
 $ sudo systemctl status ssh
 ```
