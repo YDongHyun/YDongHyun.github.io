@@ -83,7 +83,9 @@ $ sudo iwlist wlan0 scan | more
 ```
 
 사용 가능한 WiFi의 ESSID를 기억한 후 아래 명령어를 입력합니다.
+
 </br>
+
 사용 가능한 WiFi를 알아냈다면 다음을 수행합니다.
 
 ```xml
