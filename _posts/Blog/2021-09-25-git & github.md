@@ -70,7 +70,7 @@ Your WiFi 부분에 와이파이의 이름, 패스워드를 따옴표 안에 입
 라즈베이파이에서 nano를 통해 파일을 수정합니다.
 먼저 무선랜 관련 프로그램을 설치합니다.
 
-### 만약 유선랜이 있다면 다음을 진행하면 됩니다. (필수 X)
+ 만약 유선랜이 있다면 다음을 진행하면 됩니다. (필수 X)
 ```xml
 $ sudo apt install wireless-tools
 $ sudo apt update
@@ -82,10 +82,9 @@ $ sudo apt update
 $ sudo iwlist wlan0 scan | more
 ```
 
-사용 가능한 WiFi의 ESSID를 기억한 후 아래 명령어를 입력합니다.
-
 
 사용 가능한 WiFi를 알아냈다면 다음을 수행합니다.
+사용 가능한 WiFi의 ESSID를 기억한 후 아래 명령어를 입력합니다.
 
 ```xml
 $ sudo nano /etc/netplan/50-cloud-init.yaml
