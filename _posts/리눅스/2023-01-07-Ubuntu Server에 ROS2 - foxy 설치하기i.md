@@ -72,7 +72,6 @@ ROS2에서 패키지를 빌드하기 위해 Colcon Build를 설치합니다.
 $ sudo apt update
 $ sudo apt install python3-colcon-common-extensions
 ```
-<hr></hr>
 
 ### Alias 설정
 Alias를 설정함으로 긴 명령어를 하나의 단축어로 설정할 수 있습니다.
