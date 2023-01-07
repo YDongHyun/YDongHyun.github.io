@@ -3,7 +3,7 @@ title:  "Ubuntu Server에 ROS2 - foxy 설치하기"
 excerpt: ""
 
 categories:
-  - Blog
+  - 리눅스
 tags:
   - [우분투, ROS2,Ros foxy, 라즈베리파이]
 
