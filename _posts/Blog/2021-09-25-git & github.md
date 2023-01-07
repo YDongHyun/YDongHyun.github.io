@@ -132,7 +132,7 @@ $ iw wlan0 link
 
 ssh설정을 위해 먼저 아래 명령어를 입력해줍니다.
 
-```xml 실행이 안된다면 enable 후 다시 실행시킵니다.
+```xml 
 $ sudo apt install openssh-server
 ```
 
