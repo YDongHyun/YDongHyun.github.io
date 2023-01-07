@@ -1,11 +1,11 @@
 ---
-title:  "우분투 서버에 ROS2 - foxy 설치하기" 
+title:  "Ubuntu Server에 ROS2 - foxy 설치하기" 
 excerpt: ""
 
 categories:
   - Blog
 tags:
-  - [Blog, 라즈베리파이, ssh]
+  - [우분투, ROS2,Ros foxy, 라즈베리파이]
 
 toc: true
 toc_sticky: true
@@ -15,7 +15,7 @@ last_modified_at: 2023-01-06
 
 ---
 
-라즈베리파이에 설치한 Ubuntu Server에 ROS2-foxy를 설치하는 과정입니다.
+라즈베리파이에 설치한 Ubuntu Server(우분투 서버)에 ROS2-foxy를 설치하는 과정입니다.
 
 먼저 Ubuntu Server는 20.04버전으로 설치한 후 ROS2를 설치합니다.
 
