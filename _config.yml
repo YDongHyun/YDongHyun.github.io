@@ -290,3 +290,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-2RVNXVW93T"
+    anonymize_ip         : # true, false (default)
