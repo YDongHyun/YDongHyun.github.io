@@ -3,7 +3,7 @@ title:  "[라즈베리파이]Ubuntu Server 와이파이 연결 및 ssh 접속"
 excerpt: ""
 
 categories:
-  - Blog
+  - 리눅스
 tags:
   - [Blog, 라즈베리파이, ssh]
 
