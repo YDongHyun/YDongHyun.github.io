@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - 리눅스
 tags:
-  - [ 라즈베리파이, ssh]
+  - [Blog, 라즈베리파이, ssh]
 
 toc: true
 toc_sticky: true
