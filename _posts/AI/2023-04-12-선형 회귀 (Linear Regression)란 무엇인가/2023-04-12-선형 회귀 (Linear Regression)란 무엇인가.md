@@ -42,13 +42,13 @@ last_modified_at: 2023-04-12
 
 다음 표를 그래프로 나타내면 다음과 같습니다.
 
-![Untitled](./images/0.png)
+![0](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/02f567bf-b740-49e8-a9ba-4418c4d877e8)
 
 산점도 그래프는 다음과 같은 결과를 나타냅니다. 
 
 그럼 이 점들과 가장 알맞은 직선을 그려보도록 하겠습니다.
 
-![Untitled](./images/1.png)
+![1](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/40f68ea8-e704-4747-8f9e-93fb287bca27)
 
 다음과 같은 직선을 얻을 수 있습니다. 이를 통해 8시간 공부 후 100점을 받을 것이라 예측하게 됩니다.
 
@@ -78,7 +78,7 @@ X를 독립변수, h(x)는 X에 영향을 받으므로 종속변수라 합니다
 
 먼저 어떤것을 오차라 부르는지 그래프로 알아봅시다.
 
-![Untitled](./images/2.png)
+![2](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/05db799e-264d-451d-bd68-19df465dde28)
 
 위 그래프와 같이 직선과 데이터 값과의 거리가 Loss값이 됩니다.
 
@@ -132,17 +132,17 @@ $$
 
 아래 그래프를 확인해 봅시다.
 
-![Untitled](./images/3.png)
+![3](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/e6521748-486b-4046-9d43-0a0fa3c19756)
 
 W값이 매우 커지거나 작아지면 큰 오차를 보여줍니다.
 
 그래 W값과 Loss값 사이는 다음과 같은 2차함수 그래프로 나타낼 수 있습니다.
 
-![Untitled](./images/4.png)
+![4](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/ab621c57-1fba-4bb1-ae6e-e50e5e7e2c25)
 
 W와 Loss간의 관계를 직관적으로 볼 수 있습니다. 최적값에서 멀어질 수록 Loss가 커지는것을 확인 할 수 있습니다.
 
-![Untitled](./images/5.png)
+![5](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/1bf35685-05d0-445b-9974-bba9871224fe)
 
 여기서 Loss가 최소가 되는 W의 값을 학습을 통해찾아야 합니다.
 
@@ -166,7 +166,7 @@ Loss Function의 기울기값과 α값을 곱하여 W값을 갱신하는 것입�
 
 아래의 예시를 보겠습니다.
 
-![Untitled](./images/6.png)
+![6](https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/e6dfa84a-0469-4309-a4c6-5d212815c3bf)
 
 순차적으로 W의 값을 찾는것이 아니라 W의 값이 발산하게 됩니다.
 
