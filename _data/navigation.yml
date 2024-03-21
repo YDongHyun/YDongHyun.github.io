@@ -15,5 +15,5 @@ sidebar-category:
     children:
       - title: "AI"
         url: "/ai"
-      - title: "C231n"
-        url:  "/c231n"
+      - title: "CS231n"
+        url:  "/cs231n"
