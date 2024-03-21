@@ -14,8 +14,8 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "AI"
-        url: "/ai"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+        children:
+          - title: "AI"
+            url: "/ai"
+          - title : C231n
+            url: "/c231n"
