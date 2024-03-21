@@ -13,7 +13,7 @@ use_math: true
 
 date: 2023-04-18
 last_modified_at: 2023-04-18
-thumbnail: "https://github.com/YDongHyun/YDongHyun.github.io/assets/80799025/dde22997-140d-46c5-aa5f-d1fb240768d8"
+thumbnail: "./images/cs231n.png"
 
 ---
 
