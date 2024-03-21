@@ -1,6 +1,6 @@
 ---
 title: "AI"
-layout: main
+layout: archive
 permalink: /ai
 ---
 
