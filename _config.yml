@@ -286,12 +286,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      show_date: true
-      comments: true
+      read_time: true
+      comments:  true
       share: true
       related: true
-   share: true
-      related: true
       sidebar:                 
-      nav: "main"
+        nav: "sidebar-category" 
