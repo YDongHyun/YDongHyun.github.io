@@ -3,9 +3,9 @@ title:  "선형 회귀 (Linear Regression)란 무엇인가?"
 excerpt: ""
 
 categories:
-  - 인공지능
+  - AI
 tags:
-  - [인공지능, 머신러닝]
+  - [AI, 인공지능, 머신러닝]
 
 toc: true
 toc_sticky: true
