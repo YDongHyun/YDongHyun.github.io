@@ -13,10 +13,6 @@ use_math: true
 
 date: 2023-04-18
 last_modified_at: 2023-04-18
-header:
-  overlay_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-
 ---
 
 
