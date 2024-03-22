@@ -2,6 +2,9 @@
 title: "AI"
 layout: archive
 permalink: /ai
+author_profile: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.AI %}
