@@ -290,5 +290,7 @@ defaults:
       comments:  true
       share: true
       related: true
+      teaser: true
+
       sidebar:                 
         nav: "sidebar-category" 
