@@ -2,6 +2,9 @@
 title: "CS231n"
 layout: archive
 permalink: /cs231n
+author_profile: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.CS231n %}
