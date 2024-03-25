@@ -13,7 +13,9 @@ use_math: true
 
 date: 2023-04-26
 last_modified_at: 2023-04-26
-
+header: 
+  teaser: "./images/cs231n.png"
+  
 ---
 
 이번 글은 CS231n의 Lecture 5 Convolutional Neural Networks강좌를 정리한 글입니다.
