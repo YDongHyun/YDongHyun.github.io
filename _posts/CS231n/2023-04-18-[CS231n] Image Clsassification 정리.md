@@ -13,6 +13,9 @@ use_math: true
 
 date: 2023-04-18
 last_modified_at: 2023-04-18
+header: 
+  teaser: ".images/cs231n.png"
+  
 ---
 
 
