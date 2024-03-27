@@ -1,6 +1,6 @@
 ---
 title: "AI"
-layout: archive
+layout: archive-single
 permalink: /ai
 author_profile: true
 sidebar:
