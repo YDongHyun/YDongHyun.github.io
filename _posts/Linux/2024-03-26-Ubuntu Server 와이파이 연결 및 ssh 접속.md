@@ -46,10 +46,6 @@ last_modified_at: 2023-03-26
 
 ```xml
 version: 2
-ethernets:
-  eth0:
-    dhcp4: true
-    optional: true
 wifis:
   wlan0:
     dhcp4: true
