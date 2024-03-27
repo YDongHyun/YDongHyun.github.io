@@ -12,6 +12,9 @@ toc_sticky: true
  
 date: 2023-05-04
 last_modified_at: 2023-05-04
+header: 
+  teaser: "assets/images/teaser/cs231n.png"
+
 
 ---
 이 글은 Lecture 7 | Training Neural Networks II 강의를 듣고 내용을 정리하였습니다. 
