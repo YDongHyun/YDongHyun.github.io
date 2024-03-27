@@ -12,6 +12,9 @@ toc_sticky: true
  
 date: 2023-04-29
 last_modified_at: 2023-04-29
+header: 
+  teaser: "assets/images/teaser/cs231n.png"
+
 
 ---
 
