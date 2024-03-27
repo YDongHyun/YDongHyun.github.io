@@ -12,3 +12,4 @@ sidebar-category:
   - title: "Embedded"
     children:
       - title: "Linux"
+        url: "/linux"
