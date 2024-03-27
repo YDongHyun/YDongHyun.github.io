@@ -3,9 +3,12 @@ main:
   - title: "About ME"
     url: "/about"
 sidebar-category:
-  - title: "카테고리"
+  - title: " AI"
     children:
       - title: "AI"
         url: "/ai"
       - title: "CS231n"
         url:  "/cs231n"
+  - title: "Embedded"
+    children:
+      - title: "Linux"
