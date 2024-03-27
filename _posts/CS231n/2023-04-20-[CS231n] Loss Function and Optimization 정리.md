@@ -14,7 +14,7 @@ use_math: true
 date: 2023-04-20
 last_modified_at: 2023-04-20
 header: 
-  teaser: "_posts/CS231n/images/cs231n.png"
+  teaser: "assets/images/teaser/cs231n.png"
 
 ---
 
