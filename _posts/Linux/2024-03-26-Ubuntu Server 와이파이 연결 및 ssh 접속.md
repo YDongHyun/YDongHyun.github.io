@@ -166,5 +166,3 @@ $ ssh username@ip
 ![image](https://user-images.githubusercontent.com/80799025/211032324-2533117a-c9f1-46b8-afb4-aef09599a8f2.png)
 
 최종적으로 ssh 접속이 된것을 확인하였습니다.
-
-다음에는 라즈베리파이 Ubuntu Server에 ROS2를 설치보도록 하겠습니다.
