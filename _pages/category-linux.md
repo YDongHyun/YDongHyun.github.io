@@ -1,7 +1,7 @@
 ---
 title: "Linux"
 layout: archive
-permalink: /linux
+permalink: posts/linux
 author_profile: true
 sidebar:
     nav: "sidebar-category"
