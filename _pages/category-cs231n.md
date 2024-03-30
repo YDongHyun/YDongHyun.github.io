@@ -8,4 +8,4 @@ sidebar:
 ---
 
 {% assign posts = site.categories.CS231n %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% for post in posts %} {% include archive-single.html type="list" %} {% endfor %}
