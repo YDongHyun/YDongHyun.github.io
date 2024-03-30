@@ -1,7 +1,7 @@
 ---
 title: "AI"
 layout: archive
-permalink: /ai
+permalink: posts/ai
 author_profile: true
 sidebar:
     nav: "sidebar-category"
