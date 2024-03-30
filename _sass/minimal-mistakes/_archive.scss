@@ -90,9 +90,6 @@
   border-radius: $border-radius;
   overflow: hidden;
   width:200px;
-  img {
-    width:200px;
-  }
 }
 .archive__card{
    border :1px solid black;
@@ -224,7 +221,7 @@
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;
-    }
+    }te
   }
 
   .archive__item-teaser {
