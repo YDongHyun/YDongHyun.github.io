@@ -12,6 +12,8 @@ toc_sticky: true
  
 date: 2024-03-26
 last_modified_at: 2023-03-26
+header: 
+  teaser: "assets/images/teaser/ubuntu.png"
 
 ---
 
