@@ -15,5 +15,5 @@ sidebar-category:
         url: "posts/linux"
   - title: "Computer"
     children:
-      -title: "CS"
-       url: "posts/cs"
+      - title: "CS"
+        url: "posts/cs"
