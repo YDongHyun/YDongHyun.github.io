@@ -16,4 +16,4 @@ sidebar-category:
   - title: "Computer"
     children:
       -title: "CS"
-      url: "posts/cs"
+       url: "posts/cs"
