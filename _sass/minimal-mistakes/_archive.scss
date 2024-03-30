@@ -21,6 +21,10 @@
 .archive__item {
   position: relative;
   display:flex;
+  background-color: whitesmoke;
+  border: 3px solid ghostwhite;
+  border-radius: 20px;
+  margin: 0.3em;
   a {
     position: relative;
     z-index: 10;
