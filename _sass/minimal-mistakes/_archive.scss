@@ -19,6 +19,8 @@
 }
 
 .archive__item {
+  position: relative;
+
   display:flex;
   a {
     position: relative;
