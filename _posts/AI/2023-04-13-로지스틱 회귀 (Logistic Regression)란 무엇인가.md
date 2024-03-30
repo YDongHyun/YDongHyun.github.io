@@ -13,6 +13,8 @@ use_math: true
 
 date: 2023-04-13
 last_modified_at: 2023-04-13
+header: 
+  teaser: "assets/images/teaser/ai.png"
 
 ---
 
