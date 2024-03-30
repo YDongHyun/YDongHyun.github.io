@@ -21,6 +21,7 @@
 .archive__item {
   position: relative;
   display:flex;
+  align-items:center;
   background-color: whitesmoke;
   border: 3px solid ghostwhite;
   border-radius: 20px;
@@ -54,7 +55,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   width:500px;
-  margin-top: 1.4em;
+  margin-top:0px;
   a[rel="permalink"]::before {
     content: '';
     position: absolute;
@@ -62,6 +63,8 @@
     top: 0;
     right: 0;
     bottom: 0;
+    text-decoration-line: none;
+    color: darkslategray;
   }
 
   a + a {
