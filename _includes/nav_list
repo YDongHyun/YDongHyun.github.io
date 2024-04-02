@@ -16,6 +16,12 @@
         {% if nav.children != null %}
         <ul>
           {% for child in nav.children %}
+           {% assign post_cnt = 0 %}
+            {% for category in site.categories %}
+              {% if category[0] == child.category  %}
+                  {% assign post_cnt = category[1].size %}
+              {% endif %}
+            {% endfor %}
             <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
           {% endfor %}
         </ul>
