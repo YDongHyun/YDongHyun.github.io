@@ -7,13 +7,17 @@ sidebar-category:
     children:
       - title: "AI"
         url: "posts/ai"
+        category: "ai"
       - title: "CS231n"
         url:  "posts/cs231n"
+        category: "cs231n"
   - title: "Embedded"
     children:
       - title: "Linux"
         url: "posts/linux"
+        category: "linux"
   - title: "Computer"
     children:
       - title: "CS"
         url: "posts/cs"
+        category: "cs"
