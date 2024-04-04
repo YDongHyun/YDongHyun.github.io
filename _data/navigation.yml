@@ -21,3 +21,8 @@ sidebar-category:
       - title: "CS"
         url: "posts/cs"
         category: "CS"
+  - title: "Language"
+    children:
+      - title: "C"
+        url: "posts/c"
+        category: "C"
